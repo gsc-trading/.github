@@ -1,2 +1,3 @@
-# .github
-Public Display for GSC
+# Gregory Street Capital
+
+Nothing to see here.
